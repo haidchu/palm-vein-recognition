@@ -42,6 +42,9 @@ Change to palm vein in the future: after an effective method of taking the palm 
 one could change the database to a palm vein one. In that case, ROI extraction method can be found in  
 `preprocess_palm_v1.py`
 
+## Dataset
+the dataset used in the training process is from https://github.com/wilchesf/dorsalhandveins/tree/main
+
 ## Code for rearranging image data
 This code will process each image and write them to the folder with its id
 ```
